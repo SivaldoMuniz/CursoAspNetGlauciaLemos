@@ -5,7 +5,7 @@ Repositório responsável pelos códigos desenvolvidos durante o  Live Coding no
 
 * **[Download .NET Core 3.x](https://aka.ms/AA69q93)**
 * **[Visual Studio Code]()**
-* **[]()**
+* **[Git hub como ferramenta de visionamento]()**
 
 ## Recursos Adicionais & Links Importantes
 
