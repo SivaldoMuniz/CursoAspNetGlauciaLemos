@@ -10,4 +10,3 @@ Repositório responsável pelos códigos desenvolvidos durante o  Live Coding no
 ## Recursos Adicionais & Links Importantes
 
 Durante a live, comento de alguns links e recursos improtantes para aprofundar seus conhecimentos sobre .NET Core. São eles:
-
