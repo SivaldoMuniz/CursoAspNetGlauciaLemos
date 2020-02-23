@@ -10,3 +10,11 @@ Repositório responsável pelos códigos desenvolvidos durante o  Live Coding no
 ## Recursos Adicionais & Links Importantes
 
 Durante a live, comento de alguns links e recursos improtantes para aprofundar seus conhecimentos sobre .NET Core. São eles:
+
+##Executando a Apicação Localmente 💥
+
+Para executar localmente a aplicação você precisa entrar na  pasta 'src -> filmeslivecoding' e executar o seguinte comando: 
+
+'''bash
+dotnet run
+¨¨¨¨
