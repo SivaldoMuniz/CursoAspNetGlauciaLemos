@@ -18,3 +18,19 @@ Para executar localmente a aplicação você precisa entrar na  pasta 'src -> fi
 '''bash
 dotnet run
 ¨¨¨¨
+-FilmeId
+-Data de Lançamento
+-Gênero
+-Preço
+
+Para qye, possamnos executar o 'Entity Framework' no projet, se faz necesssário executar os seguintes comadndos dentro da apsta 'src -> filmeslivecoding'
+```bash
+> dotnet tool install --global dotnet -ef
+> dotnet add  package Microsft.VisualStudio.Web.CodeGeneration.Design
+> dotnet add package Microsoft.EntityFrameworkCore.Design
+> dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+> dotnet restore
+> dotnet ef migrations add InitialCreate
+> dotnet ef database update
+
+..|
