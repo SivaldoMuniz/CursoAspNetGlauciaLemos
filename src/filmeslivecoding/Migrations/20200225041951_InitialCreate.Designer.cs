@@ -9,7 +9,7 @@ using filmeslivecoding.Models;
 namespace filmeslivecoding.Migrations
 {
     [DbContext(typeof(FilmeContext))]
-    [Migration("20200225003139_InitialCreate")]
+    [Migration("20200225041951_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -36,7 +36,7 @@ namespace filmeslivecoding.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<decimal>("Preco")
-                        .HasColumnType("decimal(18.2");
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("Titulo")
                         .IsRequired()

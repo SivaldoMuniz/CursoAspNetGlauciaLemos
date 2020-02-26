@@ -14,6 +14,8 @@ using Microsoft.AspNetCore.Mvc;
 using filmeslivecoding.Models;
 
 
+
+
 namespace filmeslivecoding
 {
     public class Startup
@@ -34,9 +36,8 @@ namespace filmeslivecoding
            });
 
             // ===>Aqui será adicionado os serviços em relação a conexão com o EF com Context:
-            services.AddDbContext<FilmeContext>( options => options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddMvc().AddMvcOptions(Opt => Opt.EnableEndpointRouting = false);
-
+             services.AddDbContext<FilmeContext>(options => options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
+             services.AddMvc().AddMvcOptions(opt => opt.EnableEndpointRouting = false);
 
         }
 

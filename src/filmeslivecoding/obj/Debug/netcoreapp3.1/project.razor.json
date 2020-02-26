@@ -20506,6 +20506,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\CURSOS\\ASP.NET_MVC\\CursoAspNetGlauciaLemos\\src\\filmeslivecoding\\Pages\\Filmes\\Create.cshtml",
+      "TargetPath": "Pages\\Filmes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CURSOS\\ASP.NET_MVC\\CursoAspNetGlauciaLemos\\src\\filmeslivecoding\\Pages\\Filmes\\Details.cshtml",
+      "TargetPath": "Pages\\Filmes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CURSOS\\ASP.NET_MVC\\CursoAspNetGlauciaLemos\\src\\filmeslivecoding\\Pages\\Filmes\\Edit.cshtml",
+      "TargetPath": "Pages\\Filmes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CURSOS\\ASP.NET_MVC\\CursoAspNetGlauciaLemos\\src\\filmeslivecoding\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
@@ -20531,8 +20546,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\CURSOS\\ASP.NET_MVC\\CursoAspNetGlauciaLemos\\src\\filmeslivecoding\\Pages\\Filmes\\Delete.cshtml",
+      "TargetPath": "Pages\\Filmes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\CURSOS\\ASP.NET_MVC\\CursoAspNetGlauciaLemos\\src\\filmeslivecoding\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\CURSOS\\ASP.NET_MVC\\CursoAspNetGlauciaLemos\\src\\filmeslivecoding\\Pages\\Filmes\\Index.cshtml",
+      "TargetPath": "Pages\\Filmes\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

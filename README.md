@@ -29,6 +29,7 @@ Para qye, possamnos executar o 'Entity Framework' no projet, se faz necesssário
 > dotnet add  package Microsft.VisualStudio.Web.CodeGeneration.Design
 > dotnet add package Microsoft.EntityFrameworkCore.Design
 > dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+> dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 > dotnet restore
 > dotnet ef migrations add InitialCreate
 > dotnet ef database update

@@ -1,0 +1,7 @@
+{
+    "editor.renderLineHighlight": "gutter",
+    "editor.autoClosingBrackets": "always",
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+    "workbench.tips.enabled": false,
+    "workbench.view.experimental.allowMovingToNewContainer": true
+}

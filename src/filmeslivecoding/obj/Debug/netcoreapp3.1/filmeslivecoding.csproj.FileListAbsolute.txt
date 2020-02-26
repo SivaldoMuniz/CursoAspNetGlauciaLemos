@@ -158,3 +158,8 @@ D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\bin\Debug\net
 D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\obj\Debug\netcoreapp3.1\Razor\Pages\Filmes\Create.cshtml.g.cs
+D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\obj\Debug\netcoreapp3.1\Razor\Pages\Filmes\Delete.cshtml.g.cs
+D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\obj\Debug\netcoreapp3.1\Razor\Pages\Filmes\Details.cshtml.g.cs
+D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\obj\Debug\netcoreapp3.1\Razor\Pages\Filmes\Edit.cshtml.g.cs
+D:\CURSOS\ASP.NET_MVC\CursoAspNetGlauciaLemos\src\filmeslivecoding\obj\Debug\netcoreapp3.1\Razor\Pages\Filmes\Index.cshtml.g.cs

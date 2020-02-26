@@ -17,7 +17,7 @@ namespace filmeslivecoding.Migrations
                     DataLancamento = table.Column<DateTime>(nullable: false),
                     Genero = table.Column<string>(nullable: false),
                     Diretor = table.Column<string>(nullable: false),
-                    Preco = table.Column<decimal>(type: "decimal(18.2", nullable: false)
+                    Preco = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
                 },
                 constraints: table =>
                 {
